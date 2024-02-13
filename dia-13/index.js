@@ -1,6 +1,6 @@
 class Computador {
     constructor(tipo, processador, video, armazenamento, memoriaRam, ssd) {
-        this.tipo = tipo;
+        this.tipo = tipo; 
         this.processador = processador;
         this.video = video;
         this.armazenamento = armazenamento;
